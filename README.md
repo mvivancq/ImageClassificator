@@ -1,4 +1,4 @@
 # ImageClassificator
-Implementation of the investigation of image clasification.
-Classiicator based on google teachable machine.
+Implementation of the investigation of image classification.
+Classificator based on google teachable machine.
 
